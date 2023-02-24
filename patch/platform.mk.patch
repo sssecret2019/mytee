@@ -1,0 +1,11 @@
+--- platform.mk-bak	2019-03-05 14:44:49.903450271 +0800
++++ platform.mk	2019-03-05 14:45:26.009152223 +0800
+@@ -104,7 +104,7 @@
+ # --------------------
+ 
+ # BL33 images are in AArch64 by default
+-RPI3_BL33_IN_AARCH32		:= 0
++RPI3_BL33_IN_AARCH32		:= 1
+ 
+ # Assume that BL33 isn't the Linux kernel by default
+ RPI3_DIRECT_LINUX_BOOT		:= 0

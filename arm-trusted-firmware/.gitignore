@@ -1,0 +1,29 @@
+# Ignore miscellaneous files
+cscope.*
+*.swp
+*.patch
+*~
+.project
+.cproject
+
+# Ignore build directory
+build/
+
+# Ignore build products from tools
+tools/**/*.o
+tools/fiptool/fiptool
+tools/fiptool/fiptool.exe
+tools/cert_create/src/*.o
+tools/cert_create/src/**/*.o
+tools/cert_create/cert_create
+tools/cert_create/cert_create.exe
+tools/doimage/doimage
+tools/stm32image/*.o
+tools/stm32image/stm32image
+tools/stm32image/stm32image.exe
+
+# GNU GLOBAL files
+GPATH
+GRTAGS
+GSYMS
+GTAGS

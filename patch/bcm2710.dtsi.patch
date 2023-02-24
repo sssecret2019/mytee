@@ -1,0 +1,20 @@
+--- bcm2710.dtsi	2019-03-04 16:51:18.394353238 +0800
++++ bcm2710.dtsi-fix	2019-03-04 16:52:29.781738697 +0800
+@@ -7,6 +7,17 @@
+ 
+ 	soc {
+ 
++		firmware {
++			optee {
++				compatible = "linaro,optee-tz";
++				method = "smc";
++			};
++			psci {
++				compatible = "arm,psci-0.2";
++				method = "smc";
++			};
++		};
++
+ 		arm-pmu {
+ #ifdef RPI364
+ 			compatible = "arm,armv8-pmuv3", "arm,cortex-a7-pmu";

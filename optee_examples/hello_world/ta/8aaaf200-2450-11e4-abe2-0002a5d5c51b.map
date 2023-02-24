@@ -1,0 +1,2141 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+                              ./hello_world_ta.o (trace_printf)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+                              ./hello_world_ta.o (__aeabi_unwind_cpp_pr0)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o) (snprintk)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o) (memchr)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o) (strlen)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod_a32.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o) (__aeabi_uldivmod)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod_a32.o) (__ul_divmod)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o) (trace_ext_puts)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+                              ./user_ta_header.o (__utee_entry)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o) (utee_return)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(gprof_a32.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o) (__utee_mcount)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o) (__utee_from_param)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o) (TEE_Panic)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o) (_TEE_MathAPI_Init)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o) (mbedtls_mpi_init_mempool)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o) (malloc)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o) (vsnprintf)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o) (memcmp)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o) (memcpy)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o) (memmove)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o) (memset)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o) (mempool_alloc_pool)
+/home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+                              /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o) (_assert_log)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0x8 ./hello_world_ta.o
+ .group         0x0000000000000000        0x8 ./hello_world_ta.o
+ .group         0x0000000000000000        0x8 ./hello_world_ta.o
+ .group         0x0000000000000000        0x8 ./hello_world_ta.o
+ .group         0x0000000000000000        0x8 ./hello_world_ta.o
+ .group         0x0000000000000000        0x8 ./hello_world_ta.o
+ .group         0x0000000000000000        0x8 ./hello_world_ta.o
+ .group         0x0000000000000000        0x8 ./hello_world_ta.o
+ .group         0x0000000000000000        0x8 ./hello_world_ta.o
+ .group         0x0000000000000000        0x8 ./hello_world_ta.o
+ .group         0x0000000000000000        0x8 ./hello_world_ta.o
+ .group         0x0000000000000000        0x8 ./hello_world_ta.o
+ .group         0x0000000000000000        0x8 ./hello_world_ta.o
+ .group         0x0000000000000000        0x8 ./hello_world_ta.o
+ .group         0x0000000000000000        0x8 ./hello_world_ta.o
+ .group         0x0000000000000000        0x8 ./user_ta_header.o
+ .group         0x0000000000000000        0x8 ./user_ta_header.o
+ .group         0x0000000000000000        0x8 ./user_ta_header.o
+ .group         0x0000000000000000        0x8 ./user_ta_header.o
+ .group         0x0000000000000000        0x8 ./user_ta_header.o
+ .group         0x0000000000000000        0x8 ./user_ta_header.o
+ .group         0x0000000000000000        0x8 ./user_ta_header.o
+ .group         0x0000000000000000        0x8 ./user_ta_header.o
+ .group         0x0000000000000000        0x8 ./user_ta_header.o
+ .group         0x0000000000000000        0x8 ./user_ta_header.o
+ .group         0x0000000000000000        0x8 ./user_ta_header.o
+ .group         0x0000000000000000        0x8 ./user_ta_header.o
+ .group         0x0000000000000000        0x8 ./user_ta_header.o
+ .group         0x0000000000000000        0x8 ./user_ta_header.o
+ .group         0x0000000000000000        0x8 ./user_ta_header.o
+ .group         0x0000000000000000        0x8 ./user_ta_header.o
+ .group         0x0000000000000000        0x8 ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0xcd ./user_ta_header.o
+ .debug_macro   0x0000000000000000      0x8ef ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0x7c ./user_ta_header.o
+ .debug_macro   0x0000000000000000      0x184 ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0xc4 ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0x22 ./user_ta_header.o
+ .debug_macro   0x0000000000000000      0x16d ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0x35 ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0x34 ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0x94 ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0x58 ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0xca ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0x1c ./user_ta_header.o
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000      0x16d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000       0x58 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000       0xcd /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000       0x34 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000       0x94 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000      0x184 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .debug_macro   0x0000000000000000      0x184 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .debug_macro   0x0000000000000000      0x16d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .debug_macro   0x0000000000000000       0x16 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .debug_macro   0x0000000000000000       0x58 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .debug_macro   0x0000000000000000       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .debug_macro   0x0000000000000000      0x16d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .debug_macro   0x0000000000000000       0x16 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .debug_macro   0x0000000000000000      0x16d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .debug_macro   0x0000000000000000       0x16 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000      0x16d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0x58 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0x16 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0xcd /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0x34 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0x94 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000      0x184 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000      0x8ef /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0x35 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0xcd /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000      0x16d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x16 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000      0x8ef /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000      0x184 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x35 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x34 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x94 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x10 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x58 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0xca /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0xca /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x82 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0xcd /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000      0x16d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000      0x184 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x10 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x16 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000      0x8ef /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x35 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x34 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x94 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x58 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0xca /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0xca /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x82 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000      0x16d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000       0xcd /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000      0x8ef /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000      0x184 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000       0x35 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000       0x34 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000       0x94 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0xcd /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000      0x16d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0x34 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0x94 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000      0x184 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0x58 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0x16 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000      0x8ef /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0x35 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0x34 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0xca /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000      0x11e /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000      0x16d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000      0x184 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0x6b /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0x16 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0x58 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0xcd /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0x10 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0xcd /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000      0x16d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000      0x184 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0x10 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0x16 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0x34 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0x94 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0xca /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0x58 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .debug_macro   0x0000000000000000      0x16d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .debug_macro   0x0000000000000000       0x58 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .debug_macro   0x0000000000000000       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .debug_macro   0x0000000000000000      0x16d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .debug_macro   0x0000000000000000       0x16 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .debug_macro   0x0000000000000000      0x16d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .debug_macro   0x0000000000000000       0x16 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .debug_macro   0x0000000000000000      0x16d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .debug_macro   0x0000000000000000       0x16 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .debug_macro   0x0000000000000000      0x16d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .debug_macro   0x0000000000000000       0x16 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0xcd /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000      0x16d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0x34 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0x94 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0x10 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000      0x184 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0x10 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0x16 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0xca /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0xcd /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000      0x16d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0x34 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0x94 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0x10 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000      0x8ef /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000      0x184 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0x35 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0x10 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0x58 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0xca /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+
+.ta_head        0x0000000000000000       0x20
+ *(SORT(.ta_head))
+ .ta_head       0x0000000000000000       0x20 ./user_ta_header.o
+                0x0000000000000000                ta_head
+
+.text           0x0000000000000020     0x5da0
+                0x0000000000000020                __text_start = .
+ *(SORT(.text) SORT(.text.*))
+ .text          0x0000000000000020      0x194 ./hello_world_ta.o
+                0x0000000000000020                TA_CreateEntryPoint
+                0x0000000000000048                TA_DestroyEntryPoint
+                0x0000000000000070                TA_OpenSessionEntryPoint
+                0x00000000000000bc                TA_CloseSessionEntryPoint
+                0x00000000000000e4                TA_InvokeCommandEntryPoint
+ .text          0x00000000000001b4      0x2b4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+                0x0000000000000202                trace_set_level
+                0x0000000000000220                trace_get_level
+                0x0000000000000234                trace_printf
+                0x0000000000000370                dhex_dump
+ .text          0x0000000000000468      0x724 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+                0x0000000000000468                __vsnprintf
+                0x0000000000000b64                vsnprintk
+                0x0000000000000b72                snprintk
+ .text.__aeabi_ldivmod
+                0x0000000000000b8c       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod_a32.o)
+                0x0000000000000b8c                __aeabi_ldivmod
+ .text.__aeabi_uldivmod
+                0x0000000000000ba4       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod_a32.o)
+                0x0000000000000ba4                __aeabi_uldivmod
+ .text          0x0000000000000bbc       0x9c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+                0x0000000000000bbc                trace_ext_puts
+                0x0000000000000bd0                trace_ext_get_thread_id
+                0x0000000000000bd6                printf
+                0x0000000000000c10                puts
+                0x0000000000000c34                putchar
+ .text          0x0000000000000c58      0x210 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+                0x0000000000000cdc                __utee_entry
+ .text          0x0000000000000e68        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+ .text.utee_panic
+                0x0000000000000e68       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000e68                utee_panic
+ .text.utee_return
+                0x0000000000000e7c       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000e7c                utee_return
+ .text.utee_log
+                0x0000000000000e90       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000e90                utee_log
+ .text.__utee_panic
+                0x0000000000000ea4       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000ea4                __utee_panic
+ .text.utee_get_property
+                0x0000000000000eb8       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000eb8                utee_get_property
+ .text.utee_get_property_name_to_index
+                0x0000000000000ed0       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000ed0                utee_get_property_name_to_index
+ .text.utee_open_ta_session
+                0x0000000000000ee4       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000ee4                utee_open_ta_session
+ .text.utee_close_ta_session
+                0x0000000000000efc       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000efc                utee_close_ta_session
+ .text.utee_invoke_ta_command
+                0x0000000000000f10       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000f10                utee_invoke_ta_command
+ .text.utee_get_cancellation_flag
+                0x0000000000000f28       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000f28                utee_get_cancellation_flag
+ .text.utee_check_access_rights
+                0x0000000000000f3c       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000f3c                utee_check_access_rights
+ .text.utee_unmask_cancellation
+                0x0000000000000f50       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000f50                utee_unmask_cancellation
+ .text.utee_mask_cancellation
+                0x0000000000000f64       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000f64                utee_mask_cancellation
+ .text.utee_wait
+                0x0000000000000f78       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000f78                utee_wait
+ .text.utee_get_time
+                0x0000000000000f8c       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000f8c                utee_get_time
+ .text.utee_set_ta_time
+                0x0000000000000fa0       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000fa0                utee_set_ta_time
+ .text.utee_cryp_state_alloc
+                0x0000000000000fb4       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000fb4                utee_cryp_state_alloc
+ .text.utee_cryp_state_copy
+                0x0000000000000fcc       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000fcc                utee_cryp_state_copy
+ .text.utee_cryp_state_free
+                0x0000000000000fe0       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000fe0                utee_cryp_state_free
+ .text.utee_hash_init
+                0x0000000000000ff4       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000000ff4                utee_hash_init
+ .text.utee_hash_update
+                0x0000000000001008       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000001008                utee_hash_update
+ .text.utee_hash_final
+                0x000000000000101c       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x000000000000101c                utee_hash_final
+ .text.utee_cipher_init
+                0x0000000000001034       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000001034                utee_cipher_init
+ .text.utee_cipher_update
+                0x0000000000001048       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000001048                utee_cipher_update
+ .text.utee_cipher_final
+                0x0000000000001060       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000001060                utee_cipher_final
+ .text.utee_cryp_obj_get_info
+                0x0000000000001078       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000001078                utee_cryp_obj_get_info
+ .text.utee_cryp_obj_restrict_usage
+                0x000000000000108c       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x000000000000108c                utee_cryp_obj_restrict_usage
+ .text.utee_cryp_obj_get_attr
+                0x00000000000010a0       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x00000000000010a0                utee_cryp_obj_get_attr
+ .text.utee_cryp_obj_alloc
+                0x00000000000010b4       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x00000000000010b4                utee_cryp_obj_alloc
+ .text.utee_cryp_obj_close
+                0x00000000000010c8       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x00000000000010c8                utee_cryp_obj_close
+ .text.utee_cryp_obj_reset
+                0x00000000000010dc       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x00000000000010dc                utee_cryp_obj_reset
+ .text.utee_cryp_obj_populate
+                0x00000000000010f0       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x00000000000010f0                utee_cryp_obj_populate
+ .text.utee_cryp_obj_copy
+                0x0000000000001104       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000001104                utee_cryp_obj_copy
+ .text.utee_cryp_derive_key
+                0x0000000000001118       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000001118                utee_cryp_derive_key
+ .text.utee_cryp_random_number_generate
+                0x000000000000112c       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x000000000000112c                utee_cryp_random_number_generate
+ .text.utee_authenc_init
+                0x0000000000001140       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000001140                utee_authenc_init
+ .text.utee_authenc_update_aad
+                0x0000000000001158       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000001158                utee_authenc_update_aad
+ .text.utee_authenc_update_payload
+                0x000000000000116c       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x000000000000116c                utee_authenc_update_payload
+ .text.utee_authenc_enc_final
+                0x0000000000001184       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000001184                utee_authenc_enc_final
+ .text.utee_authenc_dec_final
+                0x000000000000119c       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x000000000000119c                utee_authenc_dec_final
+ .text.utee_asymm_operate
+                0x00000000000011b4       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x00000000000011b4                utee_asymm_operate
+ .text.utee_asymm_verify
+                0x00000000000011cc       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x00000000000011cc                utee_asymm_verify
+ .text.utee_storage_obj_open
+                0x00000000000011e4       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x00000000000011e4                utee_storage_obj_open
+ .text.utee_storage_obj_create
+                0x00000000000011fc       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x00000000000011fc                utee_storage_obj_create
+ .text.utee_storage_obj_del
+                0x0000000000001214       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000001214                utee_storage_obj_del
+ .text.utee_storage_obj_rename
+                0x0000000000001228       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000001228                utee_storage_obj_rename
+ .text.utee_storage_alloc_enum
+                0x000000000000123c       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x000000000000123c                utee_storage_alloc_enum
+ .text.utee_storage_free_enum
+                0x0000000000001250       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000001250                utee_storage_free_enum
+ .text.utee_storage_reset_enum
+                0x0000000000001264       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000001264                utee_storage_reset_enum
+ .text.utee_storage_start_enum
+                0x0000000000001278       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000001278                utee_storage_start_enum
+ .text.utee_storage_next_enum
+                0x000000000000128c       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x000000000000128c                utee_storage_next_enum
+ .text.utee_storage_obj_read
+                0x00000000000012a0       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x00000000000012a0                utee_storage_obj_read
+ .text.utee_storage_obj_write
+                0x00000000000012b4       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x00000000000012b4                utee_storage_obj_write
+ .text.utee_storage_obj_trunc
+                0x00000000000012c8       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x00000000000012c8                utee_storage_obj_trunc
+ .text.utee_storage_obj_seek
+                0x00000000000012dc       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x00000000000012dc                utee_storage_obj_seek
+ .text.utee_cryp_obj_generate_key
+                0x00000000000012f0       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x00000000000012f0                utee_cryp_obj_generate_key
+ .text.utee_cache_operation
+                0x0000000000001304       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                0x0000000000001304                utee_cache_operation
+ .text.__utee_mcount
+                0x0000000000001318        0xc /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(gprof_a32.o)
+                0x0000000000001318                __utee_mcount
+ .text          0x0000000000001324      0x2e0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+                0x0000000000001324                __utee_from_param
+                0x0000000000001372                __utee_to_param
+                0x00000000000013ae                TEE_OpenTASession
+                0x00000000000013f2                TEE_CloseTASession
+                0x0000000000001406                TEE_InvokeTACommand
+                0x000000000000146c                TEE_GetCancellationFlag
+                0x0000000000001488                TEE_UnmaskCancellation
+                0x00000000000014a4                TEE_MaskCancellation
+                0x00000000000014c0                TEE_CheckMemoryAccessRights
+                0x00000000000014ca                TEE_SetInstanceData
+                0x00000000000014d8                TEE_GetInstanceData
+                0x00000000000014e4                TEE_MemMove
+                0x00000000000014e8                TEE_MemCompare
+                0x00000000000014ec                TEE_MemFill
+                0x00000000000014f0                TEE_GetSystemTime
+                0x0000000000001506                TEE_Wait
+                0x0000000000001524                TEE_GetTAPersistentTime
+                0x0000000000001560                TEE_SetTAPersistentTime
+                0x0000000000001588                TEE_GetREETime
+                0x000000000000159e                TEE_Malloc
+                0x00000000000015e8                TEE_Realloc
+                0x00000000000015ec                TEE_Free
+                0x00000000000015f0                TEE_CacheClean
+                0x00000000000015f6                TEE_CacheFlush
+                0x00000000000015fc                TEE_CacheInvalidate
+ .text          0x0000000000001604     0x1010 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+                0x0000000000001bb0                _TEE_MathAPI_Init
+                0x0000000000001bf4                TEE_BigIntInit
+                0x0000000000001c34                TEE_BigIntConvertFromOctetString
+                0x0000000000001c74                TEE_BigIntConvertToOctetString
+                0x0000000000001ccc                TEE_BigIntConvertFromS32
+                0x0000000000001d04                TEE_BigIntConvertToS32
+                0x0000000000001d5c                TEE_BigIntCmp
+                0x0000000000001d92                TEE_BigIntCmpS32
+                0x0000000000001ea0                TEE_BigIntShiftRight
+                0x0000000000001f94                TEE_BigIntGetBit
+                0x0000000000001fbe                TEE_BigIntGetBitCount
+                0x0000000000001fe0                TEE_BigIntAdd
+                0x0000000000001ffc                TEE_BigIntSub
+                0x0000000000002018                TEE_BigIntNeg
+                0x0000000000002070                TEE_BigIntMul
+                0x0000000000002114                TEE_BigIntSquare
+                0x000000000000211a                TEE_BigIntDiv
+                0x00000000000021c8                TEE_BigIntMod
+                0x0000000000002218                TEE_BigIntAddMod
+                0x0000000000002234                TEE_BigIntSubMod
+                0x0000000000002250                TEE_BigIntMulMod
+                0x000000000000226c                TEE_BigIntSquareMod
+                0x0000000000002274                TEE_BigIntInvMod
+                0x0000000000002318                TEE_BigIntRelativePrime
+                0x0000000000002394                TEE_BigIntComputeExtendedGcd
+                0x00000000000024e4                TEE_BigIntIsProbablePrime
+                0x0000000000002514                TEE_BigIntInitFMM
+                0x0000000000002518                TEE_BigIntInitFMMContext
+                0x000000000000251a                TEE_BigIntFMMSizeInU32
+                0x0000000000002522                TEE_BigIntFMMContextSizeInU32
+                0x0000000000002526                TEE_BigIntConvertToFMM
+                0x000000000000252a                TEE_BigIntConvertFromFMM
+                0x0000000000002574                TEE_BigIntComputeFMM
+ .text.unlikely
+                0x0000000000002614       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .text          0x0000000000002634     0x27dc /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+                0x0000000000002baa                mbedtls_mpi_init
+                0x0000000000002bb8                mbedtls_mpi_init_mempool
+                0x0000000000002bdc                mbedtls_mpi_init_static
+                0x0000000000002bee                mbedtls_mpi_free
+                0x0000000000002c3c                mbedtls_mpi_grow
+                0x0000000000002ce4                mbedtls_mpi_shrink
+                0x0000000000002db0                mbedtls_mpi_copy
+                0x0000000000002e06                mbedtls_mpi_swap
+                0x0000000000002e34                mbedtls_mpi_safe_cond_assign
+                0x0000000000002ea0                mbedtls_mpi_safe_cond_swap
+                0x0000000000002f26                mbedtls_mpi_lset
+                0x0000000000002f5e                mbedtls_mpi_get_bit
+                0x0000000000002f7e                mbedtls_mpi_set_bit
+                0x0000000000002fd0                mbedtls_mpi_lsb
+                0x0000000000003002                mbedtls_mpi_bitlen
+                0x0000000000003044                mbedtls_mpi_size
+                0x0000000000003050                mbedtls_mpi_read_binary
+                0x00000000000030b6                mbedtls_mpi_write_binary
+                0x00000000000030fc                mbedtls_mpi_shift_l
+                0x000000000000318c                mbedtls_mpi_shift_r
+                0x0000000000003208                mbedtls_mpi_cmp_abs
+                0x0000000000003270                mbedtls_mpi_cmp_mpi
+                0x0000000000003302                mbedtls_mpi_cmp_int
+                0x0000000000003332                mbedtls_mpi_add_abs
+                0x00000000000033ea                mbedtls_mpi_sub_abs
+                0x0000000000003464                mbedtls_mpi_add_mpi
+                0x00000000000034aa                mbedtls_mpi_sub_mpi
+                0x00000000000034f4                mbedtls_mpi_add_int
+                0x0000000000003524                mbedtls_mpi_sub_int
+                0x0000000000003554                mbedtls_mpi_mul_mpi
+                0x000000000000362c                mbedtls_mpi_mul_int
+                0x000000000000364a                mbedtls_mpi_read_string
+                0x0000000000003776                mbedtls_mpi_div_mpi
+                0x0000000000003b0c                mbedtls_mpi_div_int
+                0x0000000000003b3a                mbedtls_mpi_mod_mpi
+                0x0000000000003b9e                mbedtls_mpi_mod_int
+                0x0000000000003c46                mbedtls_mpi_write_string
+                0x0000000000003dc4                mbedtls_mpi_montg_init
+                0x0000000000003dec                mbedtls_mpi_montmul
+                0x0000000000003eb0                mbedtls_mpi_montred
+                0x0000000000003ed4                mbedtls_mpi_exp_mod
+                0x0000000000004328                mbedtls_mpi_gcd
+                0x000000000000443a                mbedtls_mpi_fill_random
+                0x0000000000004684                mbedtls_mpi_inv_mod
+                0x0000000000004952                mbedtls_mpi_is_prime
+                0x00000000000049ae                mbedtls_mpi_gen_prime
+                0x0000000000004ae4                mbedtls_mpi_self_test
+ .text          0x0000000000004e10      0xbf8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+                0x0000000000004f18                bget
+                0x000000000000504c                bgetz
+                0x00000000000050a8                brel
+                0x00000000000052a0                bgetr
+                0x000000000000531c                bpool
+                0x00000000000053b8                bstats
+                0x000000000000541c                malloc_reset_stats
+                0x0000000000005430                malloc_get_stats
+                0x0000000000005450                malloc
+                0x0000000000005488                free
+                0x0000000000005498                calloc
+                0x00000000000054e0                realloc
+                0x0000000000005518                memalign
+                0x00000000000057e8                malloc_add_pool
+                0x00000000000058e0                malloc_buffer_is_within_alloced
+                0x00000000000059bc                malloc_buffer_overlaps_heap
+ .text          0x0000000000005a08      0x104 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+                0x0000000000005a08                mempool_alloc_pool
+                0x0000000000005a4c                mempool_alloc
+                0x0000000000005ab8                mempool_calloc
+                0x0000000000005adc                mempool_free
+ .text          0x0000000000005b0c       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+                0x0000000000005b0c                _assert_log
+                0x0000000000005b34                _assert_break
+ .text          0x0000000000005b44        0x4 ./user_ta_header.o
+                0x0000000000005b44                tahead_get_trace_level
+ .text          0x0000000000005b48        0x6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+                0x0000000000005b48                __aeabi_unwind_cpp_pr0
+                0x0000000000005b4a                __aeabi_unwind_cpp_pr1
+                0x0000000000005b4c                __aeabi_unwind_cpp_pr2
+ .text          0x0000000000005b4e       0x1c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+                0x0000000000005b4e                memchr
+ .text          0x0000000000005b6a       0x10 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+                0x0000000000005b6a                strlen
+ .text          0x0000000000005b7a      0x15e /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+                0x0000000000005b7a                __ul_divmod
+                0x0000000000005bf0                __l_divmod
+ .text          0x0000000000005cd8        0x4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+                0x0000000000005cd8                TEE_Panic
+ .text          0x0000000000005cdc       0x2c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+                0x0000000000005cdc                snprintf
+                0x0000000000005cfa                vsnprintf
+ .text          0x0000000000005d08       0x1e /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+                0x0000000000005d08                memcmp
+ .text          0x0000000000005d26       0x16 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+                0x0000000000005d26                memcpy
+ .text          0x0000000000005d3c       0x32 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+                0x0000000000005d3c                memmove
+ .text          0x0000000000005d6e       0x10 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+                0x0000000000005d6e                memset
+ .text          0x0000000000005d7e        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod_a32.o)
+ .text          0x0000000000005d7e        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(gprof_a32.o)
+ *fill*         0x0000000000005d7e        0x2 
+ .text.__stub   0x0000000000005d80       0x40 linker stubs
+ *(SORT(.stub))
+ *(SORT(.glue_7))
+ .glue_7        0x0000000000005dc0        0x0 linker stubs
+ *(SORT(.glue_7t))
+ .glue_7t       0x0000000000005dc0        0x0 linker stubs
+ *(SORT(.gnu.linkonce.t.*))
+ *(SORT(.vfp11_veneer))
+ .vfp11_veneer  0x0000000000005dc0        0x0 linker stubs
+                [!provide]                        PROVIDE (__gnu_mcount_nc, __utee_mcount)
+                0x0000000000005dc0                __text_end = .
+
+.v4_bx          0x0000000000005dc0        0x0
+ .v4_bx         0x0000000000005dc0        0x0 linker stubs
+
+.iplt           0x0000000000005dc0        0x0
+ .iplt          0x0000000000005dc0        0x0 ./hello_world_ta.o
+
+.plt            0x0000000000005dc0        0x0
+ *(SORT(.plt))
+ .plt           0x0000000000005dc0        0x0 ./hello_world_ta.o
+
+.eh_frame
+ *(SORT(.eh_frame))
+
+.rodata         0x0000000000005dc0     0x1121
+ *(SORT(.gnu.linkonce.r.*))
+ *(SORT(.rodata) SORT(.rodata.*))
+ .rodata.user_ta_header.c
+                0x0000000000005dc0       0x1b ./user_ta_header.o
+                0x0000000000005dc0                ta_num_props
+                0x0000000000005dd4                ta_heap_size
+                0x0000000000005dd8                trace_ext_prefix
+ *fill*         0x0000000000005ddb        0x1 
+ .rodata.lib/libmbedtls/mbedtls/library/bignum.c
+                0x0000000000005ddc      0x2c4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .rodata.hello_world_ta.c
+                0x00000000000060a0       0x70 ./hello_world_ta.o
+ .rodata.str1.1.hello_world_ta.c
+                0x0000000000006110       0x6a ./hello_world_ta.o
+ .rodata.str1.1.user_ta_header.c
+                0x000000000000617a      0x100 ./user_ta_header.o
+ .rodata.lib/libutils/ext/trace.c
+                0x000000000000627a        0xf /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .rodata.str1.1.lib/libutils/ext/trace.c
+                0x0000000000006289       0x3a /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+                                         0x3d (size before relaxing)
+ .rodata.lib/libutils/ext/snprintk.c
+                0x00000000000062c3       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .rodata.str1.1.lib/libutils/ext/snprintk.c
+                0x00000000000062e5       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .rodata.str1.1.lib/libutee/trace_ext.c
+                0x000000000000631d       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+                                          0x2 (size before relaxing)
+ .rodata.lib/libutee/tee_api.c
+                0x000000000000631d        0xb /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .rodata.str1.1.lib/libutee/tee_api.c
+                0x0000000000006328       0x11 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .rodata.lib/libutee/tee_api_arith_mpi.c
+                0x0000000000006339      0x143 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .rodata.str1.1.lib/libutee/tee_api_arith_mpi.c
+                0x000000000000647c       0xb7 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .rodata.str1.1.lib/libmbedtls/mbedtls/library/bignum.c
+                0x0000000000006533      0x45d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .rodata.lib/libutils/isoc/bget_malloc.c
+                0x0000000000006990       0x8a /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .rodata.str1.1.lib/libutils/isoc/bget_malloc.c
+                0x0000000000006a1a      0x408 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+                                        0x411 (size before relaxing)
+ .rodata.lib/libutils/ext/mempool.c
+                0x0000000000006e22       0x21 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .rodata.str1.1.lib/libutils/ext/mempool.c
+                0x0000000000006e43       0x77 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .rodata.str1.1.lib/libutee/assert.c
+                0x0000000000006eba       0x27 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+
+.ARM.extab      0x0000000000006ee4       0xc0
+ .ARM.extab     0x0000000000006ee4        0x0 ./hello_world_ta.o
+ .ARM.extab     0x0000000000006ee4        0x0 ./user_ta_header.o
+ .ARM.extab     0x0000000000006ee4        0xc /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .ARM.extab     0x0000000000006ef0        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+ .ARM.extab     0x0000000000006ef0        0xc /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .ARM.extab     0x0000000000006efc        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .ARM.extab     0x0000000000006efc        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .ARM.extab     0x0000000000006efc        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+ .ARM.extab     0x0000000000006efc        0xc /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .ARM.extab     0x0000000000006f08        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .ARM.extab     0x0000000000006f08       0x24 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .ARM.extab     0x0000000000006f2c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .ARM.extab     0x0000000000006f2c       0x24 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .ARM.extab     0x0000000000006f50       0x24 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .ARM.extab     0x0000000000006f74       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .ARM.extab     0x0000000000006f8c        0xc /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .ARM.extab     0x0000000000006f98        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .ARM.extab     0x0000000000006f98        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .ARM.extab     0x0000000000006f98        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .ARM.extab     0x0000000000006f98        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .ARM.extab     0x0000000000006f98        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .ARM.extab     0x0000000000006f98        0xc /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+
+.gnu.version_d  0x0000000000006fa4        0x0
+ .gnu.version_d
+                0x0000000000006fa4        0x0 ./hello_world_ta.o
+
+.gnu.version    0x0000000000006fa4        0x0
+ .gnu.version   0x0000000000006fa4        0x0 ./hello_world_ta.o
+
+.gnu.version_r  0x0000000000006fa4        0x0
+ .gnu.version_r
+                0x0000000000006fa4        0x0 ./hello_world_ta.o
+
+.ARM.extab.text.__aeabi_ldivmod
+                0x0000000000006fa4        0xc
+ .ARM.extab.text.__aeabi_ldivmod
+                0x0000000000006fa4        0xc /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod_a32.o)
+
+.ARM.extab.text.__aeabi_uldivmod
+                0x0000000000006fb0        0xc
+ .ARM.extab.text.__aeabi_uldivmod
+                0x0000000000006fb0        0xc /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod_a32.o)
+
+.ARM.extab.text.utee_panic
+                0x0000000000006fbc        0xc
+ .ARM.extab.text.utee_panic
+                0x0000000000006fbc        0xc /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_return
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_return
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_log
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_log
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.__utee_panic
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.__utee_panic
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_get_property
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_get_property
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_get_property_name_to_index
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_get_property_name_to_index
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_open_ta_session
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_open_ta_session
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_close_ta_session
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_close_ta_session
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_invoke_ta_command
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_invoke_ta_command
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_get_cancellation_flag
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_get_cancellation_flag
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_check_access_rights
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_check_access_rights
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_unmask_cancellation
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_unmask_cancellation
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_mask_cancellation
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_mask_cancellation
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_wait
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_wait
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_get_time
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_get_time
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_set_ta_time
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_set_ta_time
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_cryp_state_alloc
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_cryp_state_alloc
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_cryp_state_copy
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_cryp_state_copy
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_cryp_state_free
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_cryp_state_free
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_hash_init
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_hash_init
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_hash_update
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_hash_update
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_hash_final
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_hash_final
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_cipher_init
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_cipher_init
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_cipher_update
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_cipher_update
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_cipher_final
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_cipher_final
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_cryp_obj_get_info
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_cryp_obj_get_info
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_cryp_obj_restrict_usage
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_cryp_obj_restrict_usage
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_cryp_obj_get_attr
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_cryp_obj_get_attr
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_cryp_obj_alloc
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_cryp_obj_alloc
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_cryp_obj_close
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_cryp_obj_close
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_cryp_obj_reset
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_cryp_obj_reset
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_cryp_obj_populate
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_cryp_obj_populate
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_cryp_obj_copy
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_cryp_obj_copy
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_cryp_derive_key
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_cryp_derive_key
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_cryp_random_number_generate
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_cryp_random_number_generate
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_authenc_init
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_authenc_init
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_authenc_update_aad
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_authenc_update_aad
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_authenc_update_payload
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_authenc_update_payload
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_authenc_enc_final
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_authenc_enc_final
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_authenc_dec_final
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_authenc_dec_final
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_asymm_operate
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_asymm_operate
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_asymm_verify
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_asymm_verify
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_storage_obj_open
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_storage_obj_open
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_storage_obj_create
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_storage_obj_create
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_storage_obj_del
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_storage_obj_del
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_storage_obj_rename
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_storage_obj_rename
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_storage_alloc_enum
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_storage_alloc_enum
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_storage_free_enum
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_storage_free_enum
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_storage_reset_enum
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_storage_reset_enum
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_storage_start_enum
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_storage_start_enum
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_storage_next_enum
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_storage_next_enum
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_storage_obj_read
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_storage_obj_read
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_storage_obj_write
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_storage_obj_write
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_storage_obj_trunc
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_storage_obj_trunc
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_storage_obj_seek
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_storage_obj_seek
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_cryp_obj_generate_key
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_cryp_obj_generate_key
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.utee_cache_operation
+                0x0000000000006fc8        0x0
+ .ARM.extab.text.utee_cache_operation
+                0x0000000000006fc8        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+
+.ARM.extab.text.unlikely
+                0x0000000000006fc8        0xc
+ .ARM.extab.text.unlikely
+                0x0000000000006fc8        0xc /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+
+.ARM.exidx      0x0000000000006fd4      0x4a0
+ *(SORT(.ARM.exidx*) SORT(.gnu.linkonce.armexidx.*))
+ .ARM.exidx     0x0000000000006fd4       0x20 ./hello_world_ta.o
+                                         0x28 (size before relaxing)
+ .ARM.exidx     0x000000000000741c        0x8 ./user_ta_header.o
+ .ARM.exidx     0x0000000000006ff4       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+                                         0x28 (size before relaxing)
+ .ARM.exidx     0x0000000000007424        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+                                         0x18 (size before relaxing)
+ .ARM.exidx     0x0000000000007014       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .ARM.exidx     0x0000000000007424        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .ARM.exidx     0x000000000000742c        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .ARM.exidx.text.__aeabi_ldivmod
+                0x000000000000702c        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod_a32.o)
+ .ARM.exidx.text.__aeabi_uldivmod
+                0x0000000000007034        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod_a32.o)
+ .ARM.exidx     0x0000000000007434        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+                                         0x10 (size before relaxing)
+ .ARM.exidx     0x000000000000703c       0x28 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .ARM.exidx     0x0000000000007064       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .ARM.exidx.text.utee_panic
+                0x000000000000707c        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+ .ARM.exidx.text.utee_return
+                0x0000000000007084        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+ .ARM.exidx.text.utee_log
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.__utee_panic
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_get_property
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_get_property_name_to_index
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_open_ta_session
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_close_ta_session
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_invoke_ta_command
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_get_cancellation_flag
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_check_access_rights
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_unmask_cancellation
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_mask_cancellation
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_wait
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_get_time
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_set_ta_time
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_cryp_state_alloc
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_cryp_state_copy
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_cryp_state_free
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_hash_init
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_hash_update
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_hash_final
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_cipher_init
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_cipher_update
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_cipher_final
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_cryp_obj_get_info
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_cryp_obj_restrict_usage
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_cryp_obj_get_attr
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_cryp_obj_alloc
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_cryp_obj_close
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_cryp_obj_reset
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_cryp_obj_populate
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_cryp_obj_copy
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_cryp_derive_key
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_cryp_random_number_generate
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_authenc_init
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_authenc_update_aad
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_authenc_update_payload
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_authenc_enc_final
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_authenc_dec_final
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_asymm_operate
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_asymm_verify
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_storage_obj_open
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_storage_obj_create
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_storage_obj_del
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_storage_obj_rename
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_storage_alloc_enum
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_storage_free_enum
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_storage_reset_enum
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_storage_start_enum
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_storage_next_enum
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_storage_obj_read
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_storage_obj_write
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_storage_obj_trunc
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_storage_obj_seek
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_cryp_obj_generate_key
+                0x000000000000708c        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.utee_cache_operation
+                0x000000000000708c        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+ .ARM.exidx     0x0000000000007094       0x68 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+                                         0xc8 (size before relaxing)
+ .ARM.exidx     0x000000000000743c        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .ARM.exidx.text.unlikely
+                0x00000000000071ec        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .ARM.exidx     0x00000000000070fc       0xf0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+                                        0x150 (size before relaxing)
+ .ARM.exidx     0x00000000000071f4      0x168 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+                                        0x1b0 (size before relaxing)
+ .ARM.exidx     0x000000000000735c       0x90 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .ARM.exidx     0x0000000000007444       0x10 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .ARM.exidx     0x0000000000007454        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .ARM.exidx     0x000000000000745c        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .ARM.exidx     0x0000000000007464        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx     0x0000000000007464       0x10 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx     0x00000000000073ec       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .ARM.exidx     0x000000000000740c       0x10 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+
+.ctors
+ *(SORT(.ctors))
+
+.dtors
+ *(SORT(.dtors))
+
+.got            0x0000000000007474       0x34
+ *(SORT(.got.plt))
+ .got.plt       0x0000000000007474        0xc ./hello_world_ta.o
+                0x0000000000007474                _GLOBAL_OFFSET_TABLE_
+ *(SORT(.got))
+ .got           0x0000000000007480       0x28 ./hello_world_ta.o
+
+.rel.text
+ *(SORT(.rel.text))
+ *(SORT(.rel.gnu.linkonce.t*))
+
+.rela.text
+ *(SORT(.rela.text))
+ *(SORT(.rela.gnu.linkonce.t*))
+
+.rel.data
+ *(SORT(.rel.data))
+ *(SORT(.rel.gnu.linkonce.d*))
+
+.rela.data
+ *(SORT(.rela.data))
+ *(SORT(.rela.gnu.linkonce.d*))
+
+.rel.rodata
+ *(SORT(.rel.rodata))
+ *(SORT(.rel.gnu.linkonce.r*))
+
+.rela.rodata
+ *(SORT(.rela.rodata))
+ *(SORT(.rela.gnu.linkonce.r*))
+
+.rel.dyn        0x00000000000074a8       0xb8
+ *(SORT(.rel.dyn))
+ .rel.data.rel.ro
+                0x00000000000074a8        0x0 ./hello_world_ta.o
+ .rel.iplt      0x00000000000074a8        0x0 ./hello_world_ta.o
+ .rel.data.rel.ro.local
+                0x00000000000074a8       0x90 ./hello_world_ta.o
+ .rel.ta_head   0x0000000000007538        0x8 ./hello_world_ta.o
+ .rel.data.rel  0x0000000000007540        0x8 ./hello_world_ta.o
+ .rel.data.rel.local
+                0x0000000000007548       0x18 ./hello_world_ta.o
+
+.rel.got        0x0000000000007560       0x50
+ *(SORT(.rel.got))
+ .rel.got       0x0000000000007560       0x50 ./hello_world_ta.o
+
+.rela.got
+ *(SORT(.rela.got))
+
+.rel.ctors
+ *(SORT(.rel.ctors))
+
+.rela.ctors
+ *(SORT(.rela.ctors))
+
+.rel.dtors
+ *(SORT(.rel.dtors))
+
+.rela.dtors
+ *(SORT(.rela.dtors))
+
+.rel.init
+ *(SORT(.rel.init))
+
+.rela.init
+ *(SORT(.rela.init))
+
+.rel.fini
+ *(SORT(.rel.fini))
+
+.rela.fini
+ *(SORT(.rela.fini))
+
+.rel.bss        0x00000000000075b0        0x0
+ *(SORT(.rel.bss))
+ .rel.bss       0x00000000000075b0        0x0 ./hello_world_ta.o
+
+.rela.bss
+ *(SORT(.rela.bss))
+
+.rel.plt        0x00000000000075b0        0x0
+ *(SORT(.rel.plt))
+ .rel.plt       0x00000000000075b0        0x0 ./hello_world_ta.o
+
+.rela.plt
+ *(SORT(.rela.plt))
+
+.dynamic        0x00000000000075b0       0x80
+ *(SORT(.dynamic))
+ .dynamic       0x00000000000075b0       0x80 ./hello_world_ta.o
+                0x00000000000075b0                _DYNAMIC
+
+.dynsym         0x0000000000007630       0xd0
+ *(SORT(.dynsym))
+ .dynsym        0x0000000000007630       0xd0 ./hello_world_ta.o
+
+.dynstr         0x0000000000007700       0x9f
+ *(SORT(.dynstr))
+ .dynstr        0x0000000000007700       0x9f ./hello_world_ta.o
+
+.hash           0x00000000000077a0       0x48
+ *(SORT(.hash))
+ .hash          0x00000000000077a0       0x48 ./hello_world_ta.o
+                0x0000000000008000                . = ALIGN (0x1000)
+
+.data           0x0000000000008000       0x98
+ *(SORT(.data) SORT(.data.*) SORT(.gnu.linkonce.d.*))
+ .data          0x0000000000008000        0x4 ./user_ta_header.o
+                0x0000000000008000                trace_level
+ .data.rel.ro.local
+                0x0000000000008004       0x6c ./user_ta_header.o
+                0x0000000000008004                ta_props
+ .data.rel      0x0000000000008070        0x4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+                0x0000000000008070                _ref__utee_mcount
+ .data.rel.local
+                0x0000000000008074        0x8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .data.rel.local
+                0x000000000000807c       0x1c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .data          0x0000000000008098        0x0 ./hello_world_ta.o
+ .data.rel.ro   0x0000000000008098        0x0 ./hello_world_ta.o
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod_a32.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(gprof_a32.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .data          0x0000000000008098        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+
+.igot.plt       0x0000000000008098        0x0
+ .igot.plt      0x0000000000008098        0x0 ./hello_world_ta.o
+
+.bss            0x0000000000008098     0xa070
+ *(SORT(.bss) SORT(.bss.*) SORT(.gnu.linkonce.b.*) SORT(COMMON))
+ .bss           0x0000000000008098       0x28 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+                0x000000000000809c                ta_param_types
+                0x00000000000080a0                ta_params
+ .bss           0x00000000000080c0        0x4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .bss           0x00000000000080c4     0x2000 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .bss           0x000000000000a0c4        0x4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+                0x000000000000a0c4                mbedtls_mpi_mempool
+ .bss           0x000000000000a0c8       0x40 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .bss           0x000000000000a108        0x0 ./hello_world_ta.o
+ .bss           0x000000000000a108     0x8000 ./user_ta_header.o
+                0x000000000000a108                ta_heap
+ .bss           0x0000000000012108        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .bss           0x0000000000012108        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+ .bss           0x0000000000012108        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .bss           0x0000000000012108        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .bss           0x0000000000012108        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .bss           0x0000000000012108        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod_a32.o)
+ .bss           0x0000000000012108        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+ .bss           0x0000000000012108        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .bss           0x0000000000012108        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+ .bss           0x0000000000012108        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(gprof_a32.o)
+ .bss           0x0000000000012108        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .bss           0x0000000000012108        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .bss           0x0000000000012108        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .bss           0x0000000000012108        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .bss           0x0000000000012108        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .bss           0x0000000000012108        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .bss           0x0000000000012108        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .bss           0x0000000000012108        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+                0x0000000000012108                . = ALIGN (0x8)
+                0x0000000000012108                __gprof_buf_start = .
+                0x0000000000012108                . = (. + DEFINED (__gnu_mcount_nc)?(((__text_end - __text_start) * 0x88) / 0x64):0x0)
+                0x0000000000012108                __gprof_buf_end = .
+
+.dynbss         0x0000000000012108        0x0
+ .dynbss        0x0000000000012108        0x0 ./hello_world_ta.o
+
+/DISCARD/
+ *(SORT(.interp))
+LOAD ./hello_world_ta.o
+LOAD ./user_ta_header.o
+START GROUP
+LOAD /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a
+LOAD /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a
+LOAD /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a
+END GROUP
+OUTPUT(8aaaf200-2450-11e4-abe2-0002a5d5c51b.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0xd7d4
+ .debug_info    0x0000000000000000      0x4f8 ./hello_world_ta.o
+ .debug_info    0x00000000000004f8      0x37d ./user_ta_header.o
+ .debug_info    0x0000000000000875      0x688 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_info    0x0000000000000efd       0x4f /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+ .debug_info    0x0000000000000f4c      0x690 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .debug_info    0x00000000000015dc       0xbd /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .debug_info    0x0000000000001699       0x8d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .debug_info    0x0000000000001726       0x86 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod_a32.o)
+ .debug_info    0x00000000000017ac      0x2d3 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+ .debug_info    0x0000000000001a7f      0x2ba /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_info    0x0000000000001d39      0xab8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_info    0x00000000000027f1       0x7a /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+ .debug_info    0x000000000000286b       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(gprof_a32.o)
+ .debug_info    0x00000000000028e7      0xe9d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_info    0x0000000000003784      0x100 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_info    0x0000000000003884     0x355c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_info    0x0000000000006de0     0x451c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_info    0x000000000000b2fc     0x1aac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_info    0x000000000000cda8      0x19b /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .debug_info    0x000000000000cf43       0xb4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .debug_info    0x000000000000cff7       0xc9 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .debug_info    0x000000000000d0c0       0xc7 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .debug_info    0x000000000000d187       0x9c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .debug_info    0x000000000000d223      0x42f /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_info    0x000000000000d652      0x182 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+
+.debug_abbrev   0x0000000000000000     0x262a
+ .debug_abbrev  0x0000000000000000      0x1d9 ./hello_world_ta.o
+ .debug_abbrev  0x00000000000001d9      0x13e ./user_ta_header.o
+ .debug_abbrev  0x0000000000000317      0x277 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_abbrev  0x000000000000058e       0x47 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+ .debug_abbrev  0x00000000000005d5      0x273 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .debug_abbrev  0x0000000000000848       0xae /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .debug_abbrev  0x00000000000008f6       0x84 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .debug_abbrev  0x000000000000097a       0x12 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod_a32.o)
+ .debug_abbrev  0x000000000000098c      0x131 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+ .debug_abbrev  0x0000000000000abd      0x183 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_abbrev  0x0000000000000c40      0x2eb /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_abbrev  0x0000000000000f2b       0x12 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+ .debug_abbrev  0x0000000000000f3d       0x14 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(gprof_a32.o)
+ .debug_abbrev  0x0000000000000f51      0x2b6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_abbrev  0x0000000000001207       0xb4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_abbrev  0x00000000000012bb      0x4c5 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_abbrev  0x0000000000001780      0x49d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_abbrev  0x0000000000001c1d      0x418 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_abbrev  0x0000000000002035      0x101 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .debug_abbrev  0x0000000000002136       0x91 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .debug_abbrev  0x00000000000021c7       0xa7 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .debug_abbrev  0x000000000000226e       0x9f /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .debug_abbrev  0x000000000000230d       0x93 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .debug_abbrev  0x00000000000023a0      0x1c0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_abbrev  0x0000000000002560       0xca /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+
+.debug_loc      0x0000000000000000     0xcf11
+ .debug_loc     0x0000000000000000      0x23e ./hello_world_ta.o
+ .debug_loc     0x000000000000023e      0x45f /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_loc     0x000000000000069d      0xf0b /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .debug_loc     0x00000000000015a8       0xb8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .debug_loc     0x0000000000001660       0x57 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .debug_loc     0x00000000000016b7      0x827 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+ .debug_loc     0x0000000000001ede       0x9f /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_loc     0x0000000000001f7d      0x519 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_loc     0x0000000000002496      0x7ae /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_loc     0x0000000000002c44       0x21 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_loc     0x0000000000002c65     0x26e6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_loc     0x000000000000534b     0x523a /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_loc     0x000000000000a585     0x228b /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_loc     0x000000000000c810       0xb8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .debug_loc     0x000000000000c8c8       0x94 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .debug_loc     0x000000000000c95c       0x85 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .debug_loc     0x000000000000c9e1       0xe4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .debug_loc     0x000000000000cac5       0x4c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .debug_loc     0x000000000000cb11      0x34c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_loc     0x000000000000ce5d       0xb4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+
+.debug_aranges  0x0000000000000000      0x4f0
+ .debug_aranges
+                0x0000000000000000       0x20 ./hello_world_ta.o
+ .debug_aranges
+                0x0000000000000020       0x20 ./user_ta_header.o
+ .debug_aranges
+                0x0000000000000040       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_aranges
+                0x0000000000000060       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+ .debug_aranges
+                0x0000000000000080       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .debug_aranges
+                0x00000000000000e0       0x28 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod_a32.o)
+ .debug_aranges
+                0x0000000000000108       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+ .debug_aranges
+                0x0000000000000128       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_aranges
+                0x0000000000000148       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_aranges
+                0x0000000000000168      0x1e0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+ .debug_aranges
+                0x0000000000000348       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(gprof_a32.o)
+ .debug_aranges
+                0x0000000000000368       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_aranges
+                0x0000000000000388       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_aranges
+                0x00000000000003a8       0x28 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_aranges
+                0x00000000000003d0       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_aranges
+                0x00000000000003f0       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_aranges
+                0x0000000000000410       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .debug_aranges
+                0x0000000000000430       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .debug_aranges
+                0x0000000000000450       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .debug_aranges
+                0x0000000000000470       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .debug_aranges
+                0x0000000000000490       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .debug_aranges
+                0x00000000000004b0       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_aranges
+                0x00000000000004d0       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+
+.debug_ranges   0x0000000000000000      0x7a8
+ .debug_ranges  0x0000000000000000       0x18 ./hello_world_ta.o
+ .debug_ranges  0x0000000000000018       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_ranges  0x0000000000000050       0x40 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .debug_ranges  0x0000000000000090       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod_a32.o)
+ .debug_ranges  0x00000000000000b0       0x60 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+ .debug_ranges  0x0000000000000110       0xb8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_ranges  0x00000000000001c8      0x1d8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+ .debug_ranges  0x00000000000003a0       0x18 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_ranges  0x00000000000003b8      0x188 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_ranges  0x0000000000000540       0xe8 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_ranges  0x0000000000000628      0x180 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+
+.debug_macro    0x0000000000000000    0x11b88
+ .debug_macro   0x0000000000000000       0xdb ./hello_world_ta.o
+ .debug_macro   0x00000000000000db      0xafc ./hello_world_ta.o
+ .debug_macro   0x0000000000000bd7      0x16d ./hello_world_ta.o
+ .debug_macro   0x0000000000000d44       0xcd ./hello_world_ta.o
+ .debug_macro   0x0000000000000e11      0x8ef ./hello_world_ta.o
+ .debug_macro   0x0000000000001700       0x7c ./hello_world_ta.o
+ .debug_macro   0x000000000000177c      0x184 ./hello_world_ta.o
+ .debug_macro   0x0000000000001900       0xc4 ./hello_world_ta.o
+ .debug_macro   0x00000000000019c4       0x22 ./hello_world_ta.o
+ .debug_macro   0x00000000000019e6       0x35 ./hello_world_ta.o
+ .debug_macro   0x0000000000001a1b       0x34 ./hello_world_ta.o
+ .debug_macro   0x0000000000001a4f       0x94 ./hello_world_ta.o
+ .debug_macro   0x0000000000001ae3       0x10 ./hello_world_ta.o
+ .debug_macro   0x0000000000001af3       0x58 ./hello_world_ta.o
+ .debug_macro   0x0000000000001b4b       0xca ./hello_world_ta.o
+ .debug_macro   0x0000000000001c15       0x1c ./hello_world_ta.o
+ .debug_macro   0x0000000000001c31      0x103 ./user_ta_header.o
+ .debug_macro   0x0000000000001d34      0xafc ./user_ta_header.o
+ .debug_macro   0x0000000000002830       0xca ./user_ta_header.o
+ .debug_macro   0x00000000000028fa       0x82 ./user_ta_header.o
+ .debug_macro   0x000000000000297c       0x22 ./user_ta_header.o
+ .debug_macro   0x000000000000299e       0xdd /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000002a7b      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000003541      0x2ac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_macro   0x00000000000037ed       0x16 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000003803       0xc4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_macro   0x00000000000038c7       0x22 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_macro   0x00000000000038e9       0x1a /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+ .debug_macro   0x0000000000003903      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+ .debug_macro   0x00000000000043c9      0x134 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .debug_macro   0x00000000000044fd      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .debug_macro   0x0000000000004fc3       0x66 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .debug_macro   0x0000000000005029      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .debug_macro   0x0000000000005aef       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .debug_macro   0x0000000000005b6b       0x5a /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .debug_macro   0x0000000000005bc5      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .debug_macro   0x000000000000668b       0x1a /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+ .debug_macro   0x00000000000066a5      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+ .debug_macro   0x000000000000716b       0xf1 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x000000000000725c      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000007d22      0x18e /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000007eb0      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000008976      0x2d4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000008c4a       0x34 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000008c7e       0x10 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000008c8e      0x16f /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000008dfd      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_macro   0x00000000000098c3       0xb4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000009977      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x000000000000a43d      0x19c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x000000000000a5d9      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x000000000000b09f       0x10 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x000000000000b0af      0x11e /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x000000000000b1cd       0x6b /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x000000000000b238      0x1b0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x000000000000b3e8      0x165 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x000000000000b54d      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x000000000000c013       0x19 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x000000000000c02c      0x13f /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x000000000000c16b      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x000000000000cc31       0x16 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x000000000000cc47       0x3c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x000000000000cc83       0x4d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .debug_macro   0x000000000000ccd0      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .debug_macro   0x000000000000d796       0x51 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .debug_macro   0x000000000000d7e7      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .debug_macro   0x000000000000e2ad       0x57 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .debug_macro   0x000000000000e304      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .debug_macro   0x000000000000edca       0x64 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .debug_macro   0x000000000000ee2e      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .debug_macro   0x000000000000f8f4       0x51 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .debug_macro   0x000000000000f945      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .debug_macro   0x000000000001040b       0xeb /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_macro   0x00000000000104f6      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000010fbc      0x106 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+ .debug_macro   0x00000000000110c2      0xac6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+
+.debug_line     0x0000000000000000     0x455d
+ .debug_line    0x0000000000000000      0x254 ./hello_world_ta.o
+ .debug_line    0x0000000000000254      0x281 ./user_ta_header.o
+ .debug_line    0x00000000000004d5      0x2a6 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_line    0x000000000000077b       0x7d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+ .debug_line    0x00000000000007f8      0x31c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .debug_line    0x0000000000000b14      0x147 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .debug_line    0x0000000000000c5b      0x143 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .debug_line    0x0000000000000d9e       0x7d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod_a32.o)
+ .debug_line    0x0000000000000e1b      0x102 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+ .debug_line    0x0000000000000f1d      0x254 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_line    0x0000000000001171      0x419 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_line    0x000000000000158a      0x446 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+ .debug_line    0x00000000000019d0       0x58 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(gprof_a32.o)
+ .debug_line    0x0000000000001a28      0x38a /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_line    0x0000000000001db2      0x1d0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_line    0x0000000000001f82      0x7c3 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_line    0x0000000000002745      0xdda /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_line    0x000000000000351f      0x566 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_line    0x0000000000003a85      0x14d /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .debug_line    0x0000000000003bd2      0x13a /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .debug_line    0x0000000000003d0c      0x13a /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .debug_line    0x0000000000003e46      0x152 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .debug_line    0x0000000000003f98      0x139 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .debug_line    0x00000000000040d1      0x236 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_line    0x0000000000004307      0x256 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+
+.debug_str      0x0000000000000000    0x10e9f
+ .debug_str     0x0000000000000000     0x8236 ./hello_world_ta.o
+                                       0x83d2 (size before relaxing)
+ .debug_str     0x0000000000008236      0xd8e ./user_ta_header.o
+                                       0x9052 (size before relaxing)
+ .debug_str     0x0000000000008fc4      0xbef /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+                                       0x5b4f (size before relaxing)
+ .debug_str     0x0000000000009bb3       0xa3 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+                                       0x38cc (size before relaxing)
+ .debug_str     0x0000000000009c56      0x5af /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+                                       0x4ad2 (size before relaxing)
+ .debug_str     0x000000000000a205      0x413 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+                                       0x4059 (size before relaxing)
+ .debug_str     0x000000000000a618       0x7a /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+                                       0x3ff6 (size before relaxing)
+ .debug_str     0x000000000000a692       0xc3 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+                                       0x391e (size before relaxing)
+ .debug_str     0x000000000000a755       0x7c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+                                       0x8db9 (size before relaxing)
+ .debug_str     0x000000000000a7d1     0x367a /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+                                       0xcf70 (size before relaxing)
+ .debug_str     0x000000000000de4b      0x436 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+                                       0x9cc5 (size before relaxing)
+ .debug_str     0x000000000000e281       0x59 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+                                       0x851d (size before relaxing)
+ .debug_str     0x000000000000e2da     0x1c5b /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+                                       0xab37 (size before relaxing)
+ .debug_str     0x000000000000ff35      0x5f2 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+                                       0x5e9d (size before relaxing)
+ .debug_str     0x0000000000010527      0x5ef /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+                                       0x61b6 (size before relaxing)
+ .debug_str     0x0000000000010b16       0x46 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+                                       0x3d5b (size before relaxing)
+ .debug_str     0x0000000000010b5c       0xa1 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+                                       0x3e2b (size before relaxing)
+ .debug_str     0x0000000000010bfd       0xca /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+                                       0x3e5e (size before relaxing)
+ .debug_str     0x0000000000010cc7       0x5b /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+                                       0x4045 (size before relaxing)
+ .debug_str     0x0000000000010d22       0x50 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+                                       0x3dfb (size before relaxing)
+ .debug_str     0x0000000000010d72       0xed /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+                                       0x5b65 (size before relaxing)
+ .debug_str     0x0000000000010e5f       0x40 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+                                       0x8cad (size before relaxing)
+
+.comment        0x0000000000000000       0x74
+ .comment       0x0000000000000000       0x74 ./hello_world_ta.o
+                                         0x75 (size before relaxing)
+ .comment       0x0000000000000074       0x75 ./user_ta_header.o
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .comment       0x0000000000000074       0x75 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./hello_world_ta.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./user_ta_header.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+
+.ARM.attributes
+                0x0000000000000000       0x36
+ .ARM.attributes
+                0x0000000000000000       0x38 ./hello_world_ta.o
+ .ARM.attributes
+                0x0000000000000038       0x38 ./user_ta_header.o
+ .ARM.attributes
+                0x0000000000000070       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .ARM.attributes
+                0x00000000000000a8       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+ .ARM.attributes
+                0x00000000000000e0       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .ARM.attributes
+                0x0000000000000118       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .ARM.attributes
+                0x0000000000000150       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .ARM.attributes
+                0x0000000000000188       0x2a /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod_a32.o)
+ .ARM.attributes
+                0x00000000000001b2       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x00000000000001ea       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .ARM.attributes
+                0x0000000000000222       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .ARM.attributes
+                0x000000000000025a       0x2a /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(utee_syscalls_a32.o)
+ .ARM.attributes
+                0x0000000000000284       0x2a /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(gprof_a32.o)
+ .ARM.attributes
+                0x00000000000002ae       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .ARM.attributes
+                0x00000000000002e6       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .ARM.attributes
+                0x000000000000031e       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .ARM.attributes
+                0x0000000000000356       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .ARM.attributes
+                0x000000000000038e       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .ARM.attributes
+                0x00000000000003c6       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .ARM.attributes
+                0x00000000000003fe       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .ARM.attributes
+                0x0000000000000436       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .ARM.attributes
+                0x000000000000046e       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .ARM.attributes
+                0x00000000000004a6       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .ARM.attributes
+                0x00000000000004de       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .ARM.attributes
+                0x0000000000000516       0x38 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)
+
+.debug_frame    0x0000000000000000     0x1694
+ .debug_frame   0x0000000000000000       0x9c ./hello_world_ta.o
+ .debug_frame   0x000000000000009c       0x20 ./user_ta_header.o
+ .debug_frame   0x00000000000000bc       0xc4 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(trace.o)
+ .debug_frame   0x0000000000000180       0x40 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(aeabi_unwind.o)
+ .debug_frame   0x00000000000001c0       0x84 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintk.o)
+ .debug_frame   0x0000000000000244       0x28 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memchr.o)
+ .debug_frame   0x000000000000026c       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(strlen.o)
+ .debug_frame   0x000000000000028c       0x58 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(arm32_aeabi_ldivmod.o)
+ .debug_frame   0x00000000000002e4       0xac /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(trace_ext.o)
+ .debug_frame   0x0000000000000390       0x5c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(user_ta_entry.o)
+ .debug_frame   0x00000000000003ec      0x26c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api.o)
+ .debug_frame   0x0000000000000658       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_panic.o)
+ .debug_frame   0x0000000000000678      0x540 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_frame   0x0000000000000bb8      0x72c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libmbedtls.a(bignum.o)
+ .debug_frame   0x00000000000012e4      0x1fc /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(bget_malloc.o)
+ .debug_frame   0x00000000000014e0       0x58 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(snprintf.o)
+ .debug_frame   0x0000000000001538       0x2c /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcmp.o)
+ .debug_frame   0x0000000000001564       0x28 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memcpy.o)
+ .debug_frame   0x000000000000158c       0x28 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memmove.o)
+ .debug_frame   0x00000000000015b4       0x20 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(memset.o)
+ .debug_frame   0x00000000000015d4       0x80 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutils.a(mempool.o)
+ .debug_frame   0x0000000000001654       0x40 /home/hsk/Desktop/devel/tee-tpm-hyp/optee_os/out/arm/export-ta_arm32/lib/libutee.a(assert.o)

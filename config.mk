@@ -1,0 +1,2 @@
+export CROSS_COMPILE := /PATH/TO/YOUR/TOOLCHAINS/AARCH32/bin/arm-linux-gnueabihf-
+export CROSS_COMPILE_AARCH64 := /PATH/TO/YOUR/TOOLCHAINS/AARCH64/bin/aarch64-linux-gnu-

@@ -1,0 +1,16 @@
+srcs-$(CFG_CORE_SANITIZE_KADDRESS) += asan.c
+cflags-remove-asan.c-y += $(cflags_kasan)
+srcs-y += assert.c
+srcs-y += console.c
+srcs-$(CFG_DT) += dt.c
+srcs-y += pm.c
+srcs-y += handle.c
+srcs-y += interrupt.c
+srcs-$(CFG_LOCKDEP) += lockdep.c
+srcs-y += msg_param.c
+srcs-y += panic.c
+srcs-y += refcount.c
+srcs-y += tee_misc.c
+srcs-y += tee_ta_manager.c
+srcs-$(CFG_CORE_SANITIZE_UNDEFINED) += ubsan.c
+srcs-y += scattered_array.c
