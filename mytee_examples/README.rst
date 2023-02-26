@@ -21,7 +21,7 @@ To run it,
 
 * Trusted TPM
 
-Similarly, this TPM example conceals the TPM's output from the TEE. 
+Similarly, this TPM example conceals the TPM's output from the REE. 
 As depicted in the figure, the TPM output is consistently disguised as 0x01 in the REE. 
 Only the TA can read the actual output of TPM, but for debugging purposes, it is currently returned to the CA. 
 Note that you need hardware TPM to run this example application.
